@@ -1,2 +1,2 @@
 # drag-shot-unity
-Drag &amp; Shot mechanic for Unity game
+Drag & Shot mechanic for Unity game made by https://youtu.be/Tsha7rp58LI
